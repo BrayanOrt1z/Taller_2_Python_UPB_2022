@@ -1,0 +1,152 @@
+"Analysis Result"
+
+In this file we can find the results from the analysis of the business performance in the year.The criteria taken into account for this were: Percentage of sales growth month by month, percentage of expenses month by month. The average and deviation of monthly sales, expenses and profits were also taken into account.
+
+"Month-over-Month Sales Growth"
+
+Month To Month Comparison 	Percentage %
+       Feb vs Jan         	  -0.69%
+       Mar vs Feb         	   13%
+       Apr vs Mar         	   14%
+       May vs Apr         	  -19%
+       June vs May        	   11%
+       July vs June       	   11%
+       Aug vs July        	  -20%
+       Sept vs Aug        	   10%
+       Oct vs Sept        	   12%
+       Nov vs Oct         	  -10%
+       Dec vs Nov         	   10%
+
+"Percentage of month-to-month expenses"
+
+Months   	  Percentage %
+   Jan   	     59%
+   Feb   	     47%
+   Mar   	     34%
+   Apr   	     34%
+   May   	     44%
+   June  	     38%
+   July  	     36%
+   Aug   	     48%
+   Sept  	     50%
+   Oct   	     49%
+   Nov   	     43%
+   Dec   	     39%
+
+"Total Results"
+
+ Total Results          	     Values
+  Total Sales           	   372264600
+Total Expenses          	   162024540
+Total Utilities         	   210240060
+
+"Averages"
+
+      Averages              	  Values
+Average Monthly Sales       	 31022050
+Average Monthly Expenses    	 13502045
+Average Monthly Utilities   	 17520005
+
+"Standard Deviations"
+
+ Standard Deviations        	    Values
+   Deviation Sales          	    2925310
+ Deviation Expenses         	    1764260
+ Deviation Utilities        	    3442000
+
+Based on the information provided by the images and the tables above, we can conclude that:
+The months with the highest sales are the months that were above average sales. And they are the following:
+
+ Months With The Highest Sales   	   Values
+
+            April                	   35129000
+
+            June                 	   31368600
+
+            July                 	   34837700
+
+           October               	   34526800
+
+The months with the lowest sales are those that were below average. These are:
+
+ Months With Lower Sales    	     Values
+
+       January              	    27200500
+
+       February             	    27012500
+
+        March               	    30552600
+
+         May                	    28236000
+
+        August              	    27727600
+
+       September            	    30742400
+
+       November             	    30868900
+
+Another important aspect is that it can be seen in the sales growth table that there are abrupt percentage drops in some months compared to the sales of the previous month, which indicates that in those months the strategies used to sell are not very efficient.
+For the expenses part, in order to define which are the months with higher or lower expenses, not only the average expenses must be taken into account, but also other factors such as the following must be considered: The type of business and the area of activity. Each business and its area has its own characteristics to define operating expenses. It is also necessary to know what percentage of expenses is acceptable to the business owner. Now, if we base ourselves only on the graph and the average expenses, the months with the lowest and highest expenses are the following:
+
+ Months With Lower Expenses     	     Values
+
+         February               	    27200500
+
+          March                 	    27012500
+
+          April                 	    30552600
+
+           May                  	    28236000
+
+          June                  	    27727600
+
+          July                  	    30742400
+
+          August                	    30868900
+
+         November               	    30868900
+
+ Months With Higher Expenses         	  Values
+
+         January                     	 16245388
+
+        September                    	 15385074
+
+         October                     	 16942889
+
+         December                    	 13551400
+
+For the months with lower and higher utilities we made focus on comparing the months that are above or below the average utility value.
+
+ Months With Lower Utilities    	     Values
+
+         January                	    10955112
+
+         February               	    14184227
+
+           May                  	    15622888
+
+          August                	    14243701
+
+         September              	    15357326
+
+         November               	    17373635
+
+ Months With Higher Utilities   	     Values
+
+           March                	    19987721
+
+           April                	    22926536
+
+           June                 	    19366303
+
+           July                 	    22128100
+
+          October               	    17583911
+
+          December              	    10955112
+
+On the other hand, the values found in the standard deviation table show that the data is not very scattered, so this translates into a profitable business that is not volatile. However, it is possible to improve business performance if the owner decides to plan new strategies to increase sales and optimize business expenses.
+
+Author: Brayan Andres Ortiz Gonzalez.
+Date created: 06/09/2022
